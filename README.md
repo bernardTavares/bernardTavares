@@ -17,4 +17,11 @@ Before this I was co-founder and CTO of an AI company. I personally delivered mu
 
 **How I build:** spec-first (PRDs and ADRs), Claude Code run as a governed team of subagents, and scheduled multi-agent audits that try to break each claim.
 
+**Latest write-ups**
+- [My AI company's dispatcher made 460,868 decisions. It acted 104 times.](https://www.linkedin.com/feed/update/urn:li:activity:7523845146455670787/) (Company OS)
+- [How do you share memory across projects?](https://www.linkedin.com/feed/update/urn:li:activity:7523873005811318784/) (knowledge sync + contribute)
+- [My production WhatsApp gateway had a silent rule](https://www.linkedin.com/feed/update/urn:li:activity:7523731751182151680/) (bevox-meta-api)
+- [An approval gate for AI agents is worthless if the agent can approve itself](https://www.linkedin.com/feed/update/urn:li:activity:7523531203249881089/) (bevox-hetzner-mcp)
+- [AI in every area of the company: 4 layers](https://www.linkedin.com/feed/update/urn:li:activity:7523525161103396864/) (bevox-blueprint)
+
 📫 [LinkedIn](https://www.linkedin.com/in/bernardtavares/) · Open to Senior AI Engineer / agent platform roles, remote (US, EU, Canada) · PT · EN · FR · ES
