@@ -8,7 +8,7 @@ Before this I was co-founder and CTO of an AI company. I personally delivered mu
 |---|---|---|
 | 1 · Agents | [bevox-blueprint](https://github.com/bernardTavares/bevox-blueprint): 63 Claude Code agents across 9 departments, org chart, RACI, OKRs | ✅ public |
 | 2 · Harnesses | bevox-agent-harness (product): 5 reasoning engines, layered memory, fail-closed permissions | 🔜 |
-| 2 · Harnesses | bevox-company-os, mission-control, knowledge-sync (internal operations) | 🔜 |
+| 2 · Harnesses (openclaw) | bevox-company-os, mission-control, knowledge-sync (internal operations) | 🔜 |
 | 3 · MCP and integrations | [bevox-hetzner-mcp](https://github.com/bernardTavares/bevox-hetzner-mcp): agents run cloud infrastructure behind an approval gate | ✅ public |
 | 3 · MCP and integrations | [bevox-meta-api](https://github.com/bernardTavares/bevox-meta-api): multi-tenant WhatsApp/Instagram gateway that ran in production on k3s | ✅ public |
 | 4 · Products | bevox-backend, quantlab-ai | 🔜 |
