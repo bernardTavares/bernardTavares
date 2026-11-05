@@ -7,7 +7,7 @@ Before this I was co-founder and CTO of an AI company. I personally delivered mu
 | Layer | Repo | Status |
 |---|---|---|
 | 1 · Agents | [bevox-blueprint](https://github.com/bernardTavares/bevox-blueprint): 63 Claude Code agents across 9 departments, org chart, RACI, OKRs | ✅ public |
-| 2 · Harnesses | bevox-agent-harness (product): 5 reasoning engines, layered memory, fail-closed permissions | 🔜 |
+| 2 · Harnesses | [bevox-agent-harness](https://github.com/bernardTavares/bevox-agent-harness): the product's agent runtime, with per-step reasoning escalation across 5 engines, layered memory, fail-closed permissions and evals | ✅ public |
 | 2 · Harnesses (openclaw) | [bevox-company-os](https://github.com/bernardTavares/bevox-company-os), [bevox-mission-control](https://github.com/bernardTavares/bevox-mission-control), [bevox-knowledge-sync](https://github.com/bernardTavares/bevox-knowledge-sync), [bevox-knowledge-contribute](https://github.com/bernardTavares/bevox-knowledge-contribute), [bevox-openclaw-runtime](https://github.com/bernardTavares/bevox-openclaw-runtime): supervised agents that plan, dispatch headless Claude Code and gate every delivery | ✅ public |
 | 3 · MCP and integrations | [bevox-hetzner-mcp](https://github.com/bernardTavares/bevox-hetzner-mcp): agents run cloud infrastructure behind an approval gate | ✅ public |
 | 3 · MCP and integrations | [bevox-meta-api](https://github.com/bernardTavares/bevox-meta-api): multi-tenant WhatsApp/Instagram gateway that ran in production on k3s | ✅ public |
