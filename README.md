@@ -13,6 +13,8 @@ Before this I was co-founder and CTO of an AI company. I personally delivered mu
 | 3 · MCP and integrations | [bevox-meta-api](https://github.com/bernardTavares/bevox-meta-api): multi-tenant WhatsApp/Instagram gateway that ran in production on k3s | ✅ public |
 | 4 · Products | bevox-backend, quantlab-ai | 🔜 |
 
+Which repos run together: [map of the Company OS and the infrastructure](https://github.com/bernardTavares/bevox-company-os#how-the-repos-fit-together).
+
 **What I care about:** agents that propose and services that enforce; human approval for anything destructive or about money; tests that check *who* can approve, not only that approving works; and honest READMEs.
 
 **How I build:** spec-first (PRDs and ADRs), Claude Code run as a governed team of subagents, and scheduled multi-agent audits that try to break each claim.
