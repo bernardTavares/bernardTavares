@@ -11,7 +11,7 @@ Before this I was co-founder and CTO of an AI company. I personally delivered mu
 | 2 · Harnesses (openclaw) | [bevox-company-os](https://github.com/bernardTavares/bevox-company-os), [bevox-mission-control](https://github.com/bernardTavares/bevox-mission-control), [bevox-knowledge-sync](https://github.com/bernardTavares/bevox-knowledge-sync), [bevox-knowledge-contribute](https://github.com/bernardTavares/bevox-knowledge-contribute), [bevox-openclaw-runtime](https://github.com/bernardTavares/bevox-openclaw-runtime): supervised agents that plan, dispatch headless Claude Code and gate every delivery | ✅ public |
 | 3 · MCP and integrations | [bevox-hetzner-mcp](https://github.com/bernardTavares/bevox-hetzner-mcp): agents run cloud infrastructure behind an approval gate | ✅ public |
 | 3 · MCP and integrations | [bevox-meta-api](https://github.com/bernardTavares/bevox-meta-api): multi-tenant WhatsApp/Instagram gateway that ran in production on k3s | ✅ public |
-| 4 · Products | bevox-backend, quantlab-ai | 🔜 |
+| 4 · Products | [bevox-backend](https://github.com/bernardTavares/bevox-backend): the product's control plane, where the agent proposes and the backend decides (autonomy modes, human approvals, Pix payments, calendar) · quantlab-ai 🔜 | ✅ public (backend) |
 
 Which repos run together: [map of the Company OS and the infrastructure](https://github.com/bernardTavares/bevox-company-os#how-the-repos-fit-together).
 
